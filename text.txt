@@ -4,4 +4,3 @@ text for main
 text for line1
 
 test rebase at line1
-ok
