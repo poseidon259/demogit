@@ -4,3 +4,4 @@ text for main
 text for line1
 
 diffirence between merge and rebase
+test merge
