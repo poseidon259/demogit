@@ -5,10 +5,4 @@ text for line1
 
 test rebase at line1
 
-commit 1
-
-commit 2
-commit 3
-demo crp
-
-commit 4
+test rebase at main
